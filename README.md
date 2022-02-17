@@ -2,18 +2,17 @@
 
 # Project Name
 
-> Description the project.
+> Portfolio: setup and mobile version skeleton.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- CSS
+- HTML
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[https://www.loom.com/share/903aae2193f646b091b2ede69b1e7fd4](https://livedemo.com)
 
 
 ## Getting Started
