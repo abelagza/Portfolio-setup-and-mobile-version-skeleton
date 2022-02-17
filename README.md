@@ -12,24 +12,14 @@
 
 ## Live Demo (if available)
 
-[https://www.loom.com/share/903aae2193f646b091b2ede69b1e7fd4](https://livedemo.com)
+[Live Demo](https://www.loom.com/share/903aae2193f646b091b2ede69b1e7fd4)
 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps:
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+run the `git clone` command on your
 
 
 
