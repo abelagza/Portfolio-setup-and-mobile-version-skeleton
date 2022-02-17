@@ -19,8 +19,9 @@
 
 To get a local copy up and running follow these simple example steps:
 
-run the `git clone` command on your
+run the `git clone` command on your command line.
 
+HTTPS: https://github.com/abelagza/Portfolio-setup-and-mobile-version-skeleton.git
 
 
 ## Authors
