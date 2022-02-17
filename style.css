@@ -231,6 +231,15 @@ a {
     padding: 1.2em 8em;
     margin-top: 50px;
   }
+  
+  #body .container .left .button:hover {
+    display: inline-block;
+    background-color: white;
+    font-size: 2rem;
+    color: #1a2236;
+    padding: 1.2em 8em;
+    margin-top: 50px;
+  }
 
   #body .container .left .bottom-img {
     background-image: url('./Images/Mobile.png');
